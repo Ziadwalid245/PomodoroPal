@@ -1,0 +1,7 @@
+Problems 
+--------
+#1 You would need 6 for loops to do all the presets (does not scale well. If we want to add more presets or allow users to create their own.)
+--------------------------------------------------------------------------\
+#2 We don't have a way to allow the user to pick which preset they like and run it (we could use the if statement)
+--------------------------------------------------------------------------\
+#
